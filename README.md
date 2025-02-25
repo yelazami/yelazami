@@ -9,11 +9,11 @@
 
 - 👨‍💻 Je participe aux projets de [Courrier International](https://abos.courrierinternational.com/) et [Monde Diplomatique](https://www.monde-diplomatique.fr/)
 
-- 🌱 J'apprends actuellement **Spring**.
+- 🌱 Je code en Java, php, js, C 
 
-- 💬 J'aime parler de **PHP** et **Symfony**.
+- 💬 J'aime parler de **Spring** **Symfony** et surtout **des design pattern**.
 
-- 📫 Retrouvez-moi sur **[Linkdin](https://www.linkedin.com/in/yassine-el-azami/)**.
+- 📫 Retrouvez-moi sur **[Linkdin](www.linkedin.com/in/yelazami)**.
 
 - 📫 Posez-moi vos questions, je suis là pour vous aider avec plaisir 😊.
   
