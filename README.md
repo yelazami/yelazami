@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQENB1qeLf0ZoA/profile-displaybackgroundimage-shrink_350_1400/0/1671641158811?e=1719446400&v=beta&t=Nv0Me1-RaFdxCKzc0iqaXsCMBpMMpK1qMLlP2tq8hrE)](https://www.linkedin.com/in/yassine-el-azami/)
+![MasterHead](https://github.com/user-attachments/assets/66cdb0c8-b87e-4a6a-a9f7-8e324dba3181)
+
 
 
 <h1 align="center">Hi 👋, I'm Yassine EL-AZAMI</h1>
