@@ -9,7 +9,7 @@
 
 - 👨‍💻 Je participe aux projets de [Courrier International](https://abos.courrierinternational.com/) et [Monde Diplomatique](https://www.monde-diplomatique.fr/)
 
-- 🌱 Je code en Java, php, js, C 
+- 🌱 Je code en Java, PHP, JS et C
 
 - 💬 J'aime parler de **Spring** **Symfony** et surtout **des design pattern**.
 
