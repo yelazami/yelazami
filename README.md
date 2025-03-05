@@ -13,9 +13,8 @@
 
 - 💬 J'aime parler de **Spring** **Symfony** et surtout **des design pattern**.
 
-- 📫 Retrouvez-moi sur **[Linkdin](www.linkedin.com/in/yelazami)**.
 
-- 📫 Posez-moi vos questions, je suis là pour vous aider avec plaisir 😊.
+- 📫 Posez-moi vos questions, je suis là pour vous aider sur **el.azami.yassine1@gmail.com**.
 
 
 
