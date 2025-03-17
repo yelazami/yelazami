@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/user-attachments/assets/66cdb0c8-b87e-4a6a-a9f7-8e324dba3181)
 
 
 
@@ -11,7 +10,7 @@
 
 - 🌱 Je code en Java, PHP, JS et C
 
-- 💬 J'aime parler de **Spring** **Symfony** et surtout **des design pattern**.
+- 💬 J'aime parler de **Spring**, **Symfony** et surtout **des design pattern**.
 
 
 - 📫 Posez-moi vos questions, je suis là pour vous aider sur **el.azami.yassine1@gmail.com**.
@@ -19,7 +18,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Languages and Tools:</h3>
